@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<departments>
+  <department>
+    <id>1</id>
+    <name>Отдел разработки</name>
+  </department>
+  <department>
+    <id>2</id>
+    <name>Отдел тестирования</name>
+  </department>
+  <department>
+    <id>3</id>
+    <name>Отдел маркетинга</name>
+  </department>
+  <department>
+    <id>4</id>
+    <name>Отдел продаж</name>
+  </department>
+  <department>
+    <id>5</id>
+    <name>Отдел поддержки</name>
+  </department>
+  <department>
+    <id>6</id>
+    <name>Отдел кадров</name>
+  </department>
+  <department>
+    <id>7</id>
+    <name>Финансовый отдел</name>
+  </department>
+  <department>
+    <id>8</id>
+    <name>Юридический отдел</name>
+  </department>
+  <department>
+    <id>9</id>
+    <name>Отдел логистики</name>
+  </department>
+  <department>
+    <id>10</id>
+    <name>Отдел аналитики</name>
+  </department>
+</departments>
